@@ -1,5 +1,5 @@
 # Kaggle Sentiment analysis -- Bag of Words Meets Bags of Popcorn¶
-[notebook view](http://nbviewer.jupyter.org/github/xchaoo/lagouComment/tree/master/BagOfWordsMeetsBagsOfPopcorn.ipynb)
+[notebook view](http://nbviewer.jupyter.org/github/xchaoo/BagOfWordsMeetsBagsOfPopcorn/blob/master/BagOfWordsMeetsBagsOfPopcorn.ipynb)
 ## Background
 情感分析是机器学习中一个具有挑战性的课题。人们在表达语言时，具有很多技巧性，同一语句在不同语境下往往具有不同语意，而这些可能会导致人或者电脑的误解，本题给出了IMDB电影评论中部分有标注的训练数据，目的是预测测试集中评论积极或者消极。
 ## Data Set
